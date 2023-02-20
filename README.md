@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-* Homepage: [http://dashsantosh.me/](http://dashsantosh.me/)
+* Homepage: [http://devmaxwel.com/](http://dashsantosh.me/)
 
 ## Installation
 
